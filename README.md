@@ -2,6 +2,8 @@
 
 ## Description
 
+TAKE NOTE: Website is not scrollable and only single page navigation.
+
 This is my personal portfolio website showcasing:
 
 - About Me
